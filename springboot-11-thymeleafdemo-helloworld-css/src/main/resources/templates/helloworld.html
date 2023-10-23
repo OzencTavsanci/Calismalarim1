@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title> Hello World</title>
+	
+	
+	<!-- Reference CSS file -->
+	<link rel="stylesheet" th:href="@{/css/demo.css}"/>
+	
+</head>
+
+<body>
+	<h1>Welcome To Hello World Page!!</h1>
+	<hr>
+	<p th:text="'Tarih: '+ ${theDate}" class="funny"/>
+	
+</body>
+
+
+</html>
