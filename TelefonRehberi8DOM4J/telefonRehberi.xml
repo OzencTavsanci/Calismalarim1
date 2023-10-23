@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kisilistesi>
+  <gercekkisi>
+    <isim>"Özenç Tavşancı"</isim>
+    <dogumtarihi>09.11.1990</dogumtarihi>
+    <kimliknumarasi>164646576</kimliknumarasi>
+    <ikametgahyeri>İzmir</ikametgahyeri>
+    <iletisimnumarasi>50696726</iletisimnumarasi>
+    <iletisimadresi>ozenc@tavsanci.com</iletisimadresi>
+    <ogrenimdurumu>Mezun</ogrenimdurumu>
+    <meslegi>Programcı</meslegi>
+    <sicilkaydi>Temiz</sicilkaydi>
+  </gercekkisi>
+  <tuzelkisi>
+    <isim>"Kahve Dünyası"</isim>
+    <kurulustarihi>78.78.7878</kurulustarihi>
+    <verginumarasi>989256464</verginumarasi>
+    <hizmetyeri>İstanbul</hizmetyeri>
+    <iletisimnumarasi>21253544</iletisimnumarasi>
+    <iletisimadresi>kahve@dünyası.com</iletisimadresi>
+    <kurulussermayesi>56456454</kurulussermayesi>
+    <sirketturu>Anonim</sirketturu>
+    <bagliolduguvergidairesi>Beşiktaş</bagliolduguvergidairesi>
+    <faaliyetsektoru>Kahve</faaliyetsektoru>
+  </tuzelkisi>
+  <tuzelkisi>
+    <isim>0</isim>
+    <kurulustarihi>0</kurulustarihi>
+    <verginumarasi>0</verginumarasi>
+    <hizmetyeri>0</hizmetyeri>
+    <iletisimnumarasi>0</iletisimnumarasi>
+    <iletisimadresi>0</iletisimadresi>
+    <kurulussermayesi>0</kurulussermayesi>
+    <sirketturu>0</sirketturu>
+    <bagliolduguvergidairesi>0</bagliolduguvergidairesi>
+    <faaliyetsektoru>0</faaliyetsektoru>
+  </tuzelkisi>
+</kisilistesi>
